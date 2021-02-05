@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ragnarok.iml" filepath="$PROJECT_DIR$/.idea/modules/Ragnarok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Ragnarok.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Ragnarok.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Ragnarok.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Ragnarok.core.iml" />
+    </modules>
+  </component>
+</project>
