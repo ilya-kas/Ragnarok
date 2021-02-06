@@ -1,8 +1,15 @@
 package com.breaktime.ragnarok;
 
+import com.breaktime.ragnarok.battle.mechanics.buildings.Building;
+import com.breaktime.ragnarok.battle.mechanics.units.Unit;
+
+import java.util.ArrayList;
+
 public class Player {
     private String name;
     private int id;
+    public ArrayList<Building> buildings;
+    public ArrayList<Unit> units;
 
     public final static int WRONG_NAME_ERROR = 1;
 

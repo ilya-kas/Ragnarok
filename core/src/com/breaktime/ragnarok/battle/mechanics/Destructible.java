@@ -1,6 +1,7 @@
 package com.breaktime.ragnarok.battle.mechanics;
 
 public abstract class Destructible {
-    float hp;
-    float x,y;
+    public float hp;
+    public float x,y;
+    public int cWood, cStone; // стоимость в древесине и камне
 }
